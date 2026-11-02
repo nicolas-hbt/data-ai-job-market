@@ -35,6 +35,21 @@ This snapshot was prepared on **2026-10-30**. The `posted_at` field has **month-
 | `company_size` | Company-size category, where available |
 | `business_sector` | Business-sector category, where available |
 
+## Excerpt
+
+| Job ID | Posted | Country | Job Family | Salary Range | YOE | Seniority | Work Arrangement | Company Size | Sector | Skills |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `b4c...a7b` | 2026-10-09 | GB | AI Engineer | £70,000–£90,000 | 2–4 | — | Hybrid | 1–10 | Information Technology | Azure ... scikit-learn |
+| `cce...909` | 2026-09-04 | PT | Data Engineer | €43,000–€53,000 | 5–7 | Senior | Remote | 100–500 | Information Technology | Agile ... Scrum |
+| `674...134` | 2026-08-25 | GB | Data Analyst | £45,000–£55,000 | 5–7 | Senior | Hybrid | 100–500 | Industrials | Power BI ... SQL |
+| `5fb...ccb` | 2026-09-04 | PL | Data Scientist | 261,600–302,400 PLN | 5–7 | — | Remote | 501–1000 | Information Technology | ETL/ELT ... Spark |
+| `368...097` | 2026-08-02 | FR | AI Engineer | €75,000–€95,000 | 5–7 | Principal/Lead | Hybrid | 11–50 | Communication Services | Computer Vision ... Python |
+| `d58...62d` | 2026-08-26 | US | Data Scientist | $170,000–$170,000 | 2–4 | — | Remote | — | — | Databricks ... Statistics |
+| `c06...ad3` | 2026-07-17 | US | ML Engineer | $99,600–$192,900 | 5–7 | — | Hybrid | — | — | Agile ... XGBoost |
+| `084...8a9` | 2026-08-18 | US | AI Engineer | $85,000–$122,200 | 2–4 | — | Hybrid | 100+ | Consumer Staples | Agile ... SQL |
+| `393...2be` | 2026-08-13 | US | Data Analyst | $130,000–$175,000 | 5–7 | Senior | Hybrid | 100–500 | Information Technology | CI/CD ... dbt |
+| `19b...23a` | 2026-09-28 | US | Data Engineer | $118,000–$164,800 | 2–4 | Principal/Lead | Remote | 100+ | Financials | AWS ... Snowflake |
+
 ## Limitations
 
 This is a curated snapshot, not a complete census of job openings. Coverage depends on the sources and collection process. Salary values may be missing, and different currencies should not be compared without conversion.
