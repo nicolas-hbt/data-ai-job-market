@@ -17,7 +17,7 @@ Both files contain the same records and columns. Parquet is recommended for anal
 
 This snapshot was prepared on **2026-10-30**. The `posted_at` field has **month-level precision** (`YYYY-MM`), covering May through October 2026.
 
-## Fields
+## Data schema
 
 | Field | Description |
 |---|---|
@@ -35,7 +35,7 @@ This snapshot was prepared on **2026-10-30**. The `posted_at` field has **month-
 | `company_size` | Company-size category, where available |
 | `business_sector` | Business-sector category, where available |
 
-## Excerpt
+## Excerpt of the dataset
 
 | Job ID | Posted | Country | Job Family | Salary Range | YOE | Seniority | Work Arrangement | Company Size | Sector | Skills |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
