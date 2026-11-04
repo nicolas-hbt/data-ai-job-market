@@ -52,7 +52,7 @@ This snapshot was prepared on **2026-10-30**. The `posted_at` field has **month-
 
 ## Limitations
 
-This is a curated snapshot, not a complete census of job openings. Coverage depends on the sources and collection process. Salary values may be missing, and different currencies should not be compared without conversion.
+This is a curated snapshot, not a complete census of job openings. Coverage depends on the sources and collection process. Salary values and other fields may be missing.
 
 This release contains no job descriptions, employer names, or job URLs.
 
